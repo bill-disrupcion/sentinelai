@@ -1,4 +1,6 @@
 package com.example.sentinelai;
 
-public class MyApplication {
+import android.app.Application;
+
+public class MyApplication extends Application {
 }
